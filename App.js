@@ -256,7 +256,7 @@ const checkHighwayEntry = (location) => {
 
 
   return (
-    <LoadScript googleMapsApiKey="AIzaSyB7W7Dlqc2VIuOfIo69GbLbbz74pwhIdIA" libraries={["places"]}>
+    <LoadScript googleMapsApiKey="AIzaSyB7W7Dlqc2VIuOfIo69GbLbbz74                                                                                          pwhIdIA" libraries={["places"]}>
       <div style={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
         <GoogleMap
           mapContainerStyle={{ width: "100%", height: "500px" }}
